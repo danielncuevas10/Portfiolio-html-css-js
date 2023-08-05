@@ -46,7 +46,7 @@ nav {
 }
 
 a {
-   color: black;
+   color: white;
    text-decoration: none;
    text-decoration-color: white; 
 }
@@ -197,9 +197,10 @@ section{
 #socials-container {
     display: flex;
     justify-content: center;
-    margin-top: 1rem;
+    margin-top: 3rem;
     gap: 1rem;
 }
+
 
 /* Icons */
 
